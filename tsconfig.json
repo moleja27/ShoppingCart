@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "outDir": "./dist", // Optional: Output directory for compiled files
+    "target": "es6" // Optional: Specify ECMAScript target version
+  },
+  "include": [
+    "*.ts",
+    "*.js"
+  ] // Include both TypeScript and JavaScript files
+}
